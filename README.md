@@ -37,7 +37,7 @@ For this task, I created an infographic on digital literacy using Canva. The pos
 In this task, I created and updated my profiles on platforms such as GitHub, LinkedIn, and other relevant digital platforms. This helped me understand the value of building a professional online identity from the beginning of college.
 
 ### Task 3 – Coding and Collaboration Platforms
-This task involved exploring a coding practice platform and completing a beginner-level challenge. I also created a Google Form quiz on digital literacy and viewed responses through a linked Google Sheet, which helped me learn about digital collaboration tools.
+This task involved exploring a coding practice platform and completing a beginner-level challenge. I also created a Google Form quiz on digital literacy and viewed responses through a linked Google Sheet, which helped me learn about digital collaboration tools.  
 **Google Form Link:** https://forms.gle/TtAVnDPB8zXzitUv9  
 **Google Form Responses Link:** https://docs.google.com/spreadsheets/d/14BFUetFwiVjYKvC5E9UwYcGk67Ou7n_tkpQx0TiVINg/edit?usp=sharing  
 
