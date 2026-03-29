@@ -1,8 +1,8 @@
 # Digital Literacy Project
 
 ## Student Details
-**Name:** Shivansh Dayal  
-**Registration Number:** 25BCE11239  
+**Name:** Chakshul Kedia  
+**Registration Number:** 25BCE11242
 **Branch:** B.Tech CSE  
 **Year:** First Year  
 **Course Code:** CSE0001  
