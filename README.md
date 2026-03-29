@@ -2,7 +2,7 @@
 
 ## Student Details
 **Name:** Chakshul Kedia  
-**Registration Number:** 25BCE11242
+**Registration Number:** 25BCE11242  
 **Branch:** B.Tech CSE  
 **Year:** First Year  
 **Course Code:** CSE0001  
